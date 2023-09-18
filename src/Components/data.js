@@ -1,0 +1,22 @@
+const data = [
+    {
+        id:1,
+        name:"Mumbai",
+    },
+    {
+        id:2,
+        name:"Lucknow",
+    },
+    {
+        id:3,
+        name:"Delhi"
+    },
+    {
+        id:4,
+        name:"Bangalore"
+    },
+    {
+        id:5,
+        name:"Chennai"
+    }
+]

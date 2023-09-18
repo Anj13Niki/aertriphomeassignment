@@ -1,0 +1,7 @@
+.light{
+    --primary-color:#fff;
+}
+.dark{
+    --secondary-color:#343434;
+    --text-color:#fff;
+}
